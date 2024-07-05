@@ -1,0 +1,88 @@
+@{
+    Layout = "_Layout";
+}
+@model IlanAppv2.Models.IlanModel
+<div class="button-container">
+    <a href="/admin/editor/pendingads" class="pending-ads-button">Onay Bekleyen İlanlar</a>
+</div>
+
+
+<section class="editor">
+    <div class="categories-section">
+        <h2>Kategoriler</h2>
+        <table>
+            <tr>
+                <th>Kategori Adı</th>
+                <th>İşlemler</th>
+            </tr>
+
+            @foreach (var item in Model.Categories)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td><a href="/admin/editor/updatecategory/@item.Id">güncelle</a> / @Html.ActionLink("Sil", "DeleteCategory", "Editor", new { Area = "Admin", id = item.Id })</td>
+                </tr>
+            }
+
+        </table>
+        <div class="add-category">
+            <h3>Kategori Ekle</h3>
+            <form method="post" autocomplete="off" action="/admin/Editor/AddCategory">
+                <label for="category-name">Kategori Adı</label>
+                <input type="text" id="category-name" required name="Name">
+                <button type="submit">Ekle</button>
+            </form>
+        </div>
+    </div>
+    <div class="ads-section">
+        <h2>İlanlar</h2>
+        <table>
+            <tr>
+                <th>Başlık</th>
+                <th>Kategori</th>
+                <th>Fiyat</th>
+                <th>Update Tarihi</th>
+                <th>İşlemler</th>
+            </tr>
+            @foreach (var item in Model.Ilans)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.CategoryName</td>
+                    <td>@item.Price.ToString("N") TL</td>
+                    <td>@item.UpdatedTime.ToString("dd.MM.yyyy HH:mm")</td>
+                    <td><a href="/admin/editor/updatead/@item.Id">güncelle</a> / <a href="/admin/editor/deletead/@item.Id">sil</a></td>
+                </tr>
+            }
+        </table>
+        <div class="add-ad">
+            <h3>İlan Ekle</h3>
+            <form method="post" action="/admin/editor/AddIlan" autocomplete="off" enctype="multipart/form-data">
+
+                <label for="ad-title">Başlık</label>
+                <input type="text" id="ad-title" name="name" required>
+
+                <label for="ad-detail">Detay</label>
+                <textarea id="ad-detail" name="detail" required></textarea>
+
+                <label for="ad-price">Fiyat</label>
+                <input type="number" id="ad-price" name="price" required>
+
+                <input required type="file" name="img" accept="image/png, image/jpeg"/>
+
+                <label for="ad-category">Kategori</label>
+                <select id="ad-category" name="CategoryId" required>
+                    <option disabled selected>Kategori</option>
+                    @foreach (var item in Model.Categories)
+                    {
+                        <option value="@item.Id">@item.Name</option>
+                    }
+
+                </select>
+                <label for="ad-title" >E-Mail</label>
+                <input type="email" id="ad-title" name="EMail" required>
+                <button type="submit">Ekle</button>
+            </form>
+        </div>
+    </div>
+</section>

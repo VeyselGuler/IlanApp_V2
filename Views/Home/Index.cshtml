@@ -1,0 +1,17 @@
+﻿@model IlanModel
+
+<section class="latest-ads">
+    <h2>Son İlanlar</h2>
+    <div class="ads-container">
+        @foreach (var item in Model.Ilans)
+        {
+            <div class="ad">
+                <img src="@item.ImgUrl" alt="@item.Name">
+                <h3>@item.Name</h3>
+                <p>@item.Price.ToString("N") TL</p>
+                <a href="#">@item.CategoryName</a>
+            </div>
+        }
+    </div>
+</section>
+@Html.Partial("Partials/_Category")

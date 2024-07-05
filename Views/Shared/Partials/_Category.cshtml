@@ -1,0 +1,17 @@
+@model IlanModel
+
+<section class="categories">
+    <h2>Kategoriler</h2>
+    <div class="categories-container">
+        @foreach (var item in Model.Categories)
+        {
+            <div class="category">
+                @* <i class="fas fa-car"></i> *@
+                @* <a href="/"> *@
+                    <p>@item.Name</p>
+                @* </a> *@
+
+            </div>
+        }
+    </div>
+</section>

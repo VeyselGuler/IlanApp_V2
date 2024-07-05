@@ -1,0 +1,11 @@
+@{
+    Layout = "_Layout";
+}
+
+@model IlanAppv2.Models.Category
+
+<form method="post" autocomplete="off">
+    <label for="category-name">Kategori Adı</label>
+    <input type="text" id="category-name" required value="@Model.Name" name="name">
+    <button type="submit">Güncelle</button>
+</form>

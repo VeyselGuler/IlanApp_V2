@@ -1,0 +1,441 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/obj/Release/net8.0/scopedcss/projectbundle/IlanAppv2.bundle.scp.css",
+      "PackagePath": "staticwebassets/IlanAppv2.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/css/editor.css",
+      "PackagePath": "staticwebassets/css/editor.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/images/image-1.png",
+      "PackagePath": "staticwebassets/mailTemp/images/image-1.png"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/images/image-2.png",
+      "PackagePath": "staticwebassets/mailTemp/images/image-2.png"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/images/image-3.png",
+      "PackagePath": "staticwebassets/mailTemp/images/image-3.png"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/images/image-4.png",
+      "PackagePath": "staticwebassets/mailTemp/images/image-4.png"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/images/image-5.png",
+      "PackagePath": "staticwebassets/mailTemp/images/image-5.png"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/index.html",
+      "PackagePath": "staticwebassets/mailTemp/index.html"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/mail.html",
+      "PackagePath": "staticwebassets/mailTemp/mail.html"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/onay.html",
+      "PackagePath": "staticwebassets/mailTemp/onay.html"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/mailTemp/red.html",
+      "PackagePath": "staticwebassets/mailTemp/red.html"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/00f907d0-18ce-49b9-b17d-b814901df551.jpeg",
+      "PackagePath": "staticwebassets/uploads/00f907d0-18ce-49b9-b17d-b814901df551.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/01170a6d-4230-4c21-906b-ea0c76458ff8.jpeg",
+      "PackagePath": "staticwebassets/uploads/01170a6d-4230-4c21-906b-ea0c76458ff8.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/15663eec-49c2-4cfe-8290-08cbb2a9bd66.jpeg",
+      "PackagePath": "staticwebassets/uploads/15663eec-49c2-4cfe-8290-08cbb2a9bd66.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/1a537141-1008-401c-a583-1e966c56b7ba.jpeg",
+      "PackagePath": "staticwebassets/uploads/1a537141-1008-401c-a583-1e966c56b7ba.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/2f78d01b-daf1-4c51-b3e4-139037397ad8.jpeg",
+      "PackagePath": "staticwebassets/uploads/2f78d01b-daf1-4c51-b3e4-139037397ad8.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/318c8018-2793-4ad4-8ed2-05772058edd2.jpeg",
+      "PackagePath": "staticwebassets/uploads/318c8018-2793-4ad4-8ed2-05772058edd2.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/40065c15-aba1-4f98-9caa-86cd5323748a.jpeg",
+      "PackagePath": "staticwebassets/uploads/40065c15-aba1-4f98-9caa-86cd5323748a.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/4239c45a-a837-4002-b1cc-1900e7aeddd3.jpeg",
+      "PackagePath": "staticwebassets/uploads/4239c45a-a837-4002-b1cc-1900e7aeddd3.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/4287f38e-0f5b-4cc2-a204-4d049c6630f2.jpeg",
+      "PackagePath": "staticwebassets/uploads/4287f38e-0f5b-4cc2-a204-4d049c6630f2.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/43a13937-4c5e-4b8f-aa61-53f5a1a96523.jpeg",
+      "PackagePath": "staticwebassets/uploads/43a13937-4c5e-4b8f-aa61-53f5a1a96523.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/49539a9d-0fd8-4096-bc43-a82f2e3db2f0.jpeg",
+      "PackagePath": "staticwebassets/uploads/49539a9d-0fd8-4096-bc43-a82f2e3db2f0.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/603537de-b365-46e1-8611-207e38d96c68.jpg",
+      "PackagePath": "staticwebassets/uploads/603537de-b365-46e1-8611-207e38d96c68.jpg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/67e4a7a3-bb72-4915-8e88-22c33c671736.jpeg",
+      "PackagePath": "staticwebassets/uploads/67e4a7a3-bb72-4915-8e88-22c33c671736.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/6aa0a1a1-0de7-4f6e-9e06-6cc96eba6fe2.jpeg",
+      "PackagePath": "staticwebassets/uploads/6aa0a1a1-0de7-4f6e-9e06-6cc96eba6fe2.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/6c48edaf-e933-4c22-82d1-a33330ffaecb.jpeg",
+      "PackagePath": "staticwebassets/uploads/6c48edaf-e933-4c22-82d1-a33330ffaecb.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/7279f567-0b0a-4eb8-be15-d0c74d8ef9d8.jpeg",
+      "PackagePath": "staticwebassets/uploads/7279f567-0b0a-4eb8-be15-d0c74d8ef9d8.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/752b4880-a0bc-4ad6-9053-002757f02fff.jpeg",
+      "PackagePath": "staticwebassets/uploads/752b4880-a0bc-4ad6-9053-002757f02fff.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/90e186a4-8ff6-445b-901a-1596ceccc804.jpeg",
+      "PackagePath": "staticwebassets/uploads/90e186a4-8ff6-445b-901a-1596ceccc804.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/9d2e6a0b-f222-4094-a2f0-aa1851f8fdf4.jpeg",
+      "PackagePath": "staticwebassets/uploads/9d2e6a0b-f222-4094-a2f0-aa1851f8fdf4.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/9e882ac6-3ed4-41e8-b67d-bce47301793c.jpeg",
+      "PackagePath": "staticwebassets/uploads/9e882ac6-3ed4-41e8-b67d-bce47301793c.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/a25c5d96-b4fa-4058-98ba-cfc5ddebd326.jpeg",
+      "PackagePath": "staticwebassets/uploads/a25c5d96-b4fa-4058-98ba-cfc5ddebd326.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/a2cc5f18-5f4c-431d-9329-a76bc5bcfb8b.jpeg",
+      "PackagePath": "staticwebassets/uploads/a2cc5f18-5f4c-431d-9329-a76bc5bcfb8b.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/aa2ca4c3-07b6-42b6-97ec-6e439ba74ea3.jpeg",
+      "PackagePath": "staticwebassets/uploads/aa2ca4c3-07b6-42b6-97ec-6e439ba74ea3.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/b9d05a2c-8843-40f2-bcc3-f23827079ea7.jpeg",
+      "PackagePath": "staticwebassets/uploads/b9d05a2c-8843-40f2-bcc3-f23827079ea7.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/c0e7f878-dc57-49b5-8041-18e986478707.jpeg",
+      "PackagePath": "staticwebassets/uploads/c0e7f878-dc57-49b5-8041-18e986478707.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/c35c1fae-aa52-4ade-8443-7fa234e74595.jpeg",
+      "PackagePath": "staticwebassets/uploads/c35c1fae-aa52-4ade-8443-7fa234e74595.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/d1590509-8574-44aa-afab-6dcb99468850.jpeg",
+      "PackagePath": "staticwebassets/uploads/d1590509-8574-44aa-afab-6dcb99468850.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/dcdc2759-0a88-4618-a427-7c7132738c9b.jpeg",
+      "PackagePath": "staticwebassets/uploads/dcdc2759-0a88-4618-a427-7c7132738c9b.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/e59adbf7-4824-4420-bb9a-04294283cdc4.jpeg",
+      "PackagePath": "staticwebassets/uploads/e59adbf7-4824-4420-bb9a-04294283cdc4.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/e5d6451e-55b2-4b32-b915-8ffe4ffdb160.jpeg",
+      "PackagePath": "staticwebassets/uploads/e5d6451e-55b2-4b32-b915-8ffe4ffdb160.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/eb5dc672-61ec-4c5b-8cd0-4aefc9ddc408.jpeg",
+      "PackagePath": "staticwebassets/uploads/eb5dc672-61ec-4c5b-8cd0-4aefc9ddc408.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/f3bc7220-393c-44ab-b520-4a8126068ab0.jpeg",
+      "PackagePath": "staticwebassets/uploads/f3bc7220-393c-44ab-b520-4a8126068ab0.jpeg"
+    },
+    {
+      "Id": "/Users/veyselmor/Desktop/works/IlanAppv2/wwwroot/uploads/f629b280-07c2-4f40-aa53-ea3f5749456e.jpeg",
+      "PackagePath": "staticwebassets/uploads/f629b280-07c2-4f40-aa53-ea3f5749456e.jpeg"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.IlanAppv2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.build.IlanAppv2.props",
+      "PackagePath": "build\\IlanAppv2.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildMultiTargeting.IlanAppv2.props",
+      "PackagePath": "buildMultiTargeting\\IlanAppv2.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/staticwebassets/msbuild.buildTransitive.IlanAppv2.props",
+      "PackagePath": "buildTransitive\\IlanAppv2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

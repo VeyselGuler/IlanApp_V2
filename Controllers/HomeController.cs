@@ -17,7 +17,8 @@ public class HomeController : Controller
 
         using (var connection = new SqlConnection(connectionString))
         {
-            var sql = "SELECT TOP 8 ads.Name, categories.Name as CategoryName, Price, UpdatedTime, ImgUrl FROM ads LEFT JOIN categories ON ads.CategoryId = categories.Id WHERE IsApproved = 1 ORDER BY updatedtime DESC ";
+            var sql =
+                "SELECT TOP 8 ads.Name, categories.Name as CategoryName, Price, UpdatedTime, ImgUrl, CategoryId FROM ads LEFT JOIN categories ON ads.CategoryId = categories.Id WHERE IsApproved = 1 ORDER BY updatedtime DESC ";
             var ilans = connection.Query<Ilan>(sql).ToList();
             IlanModel.Ilans = ilans;
         }
@@ -31,5 +32,26 @@ public class HomeController : Controller
 
 
         return View(IlanModel);
+    }
+
+    public IActionResult Product(int id)
+    {
+        using var connection = new SqlConnection(connectionString);
+        var sql =
+            "SELECT ads.Name, categories.Name as CategoryName, Price, UpdatedTime, ImgUrl, CategoryId FROM ads LEFT JOIN categories ON ads.CategoryId = categories.Id WHERE (IsApproved = 1 AND CategoryId = @id ) ORDER BY updatedtime DESC ";
+        var ilans = connection.Query<Ilan>(sql, new {Id = id}).ToList();
+
+        if (ilans.Count > 0)
+        {
+            var firstIlan = ilans.First();
+            ViewBag.CategoryName = firstIlan.CategoryName;
+        }
+        else
+        {
+            ViewBag.CategoryName = "Bu Kategoride ilan yok";
+        }
+
+        return View(ilans);
+
     }
 }

@@ -1,4 +1,5 @@
-﻿@model IlanModel
+﻿@using System.Globalization
+@model IlanModel
 
 <section class="latest-ads">
     <h2>Son İlanlar</h2>
@@ -8,8 +9,8 @@
             <div class="ad">
                 <img src="@item.ImgUrl" alt="@item.Name">
                 <h3>@item.Name</h3>
-                <p>@item.Price.ToString("N") TL</p>
-                <a href="#">@item.CategoryName</a>
+                <p>@item.Price.ToString("c", CultureInfo.CreateSpecificCulture("tr-TR"))</p>
+                <a href="/home/product/@item.CategoryId">@item.CategoryName</a>
             </div>
         }
     </div>

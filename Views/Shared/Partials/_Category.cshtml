@@ -7,11 +7,43 @@
         {
             <div class="category">
                 @* <i class="fas fa-car"></i> *@
-                @* <a href="/"> *@
+                <a href="/home/product/@item.Id">
                     <p>@item.Name</p>
-                @* </a> *@
+                </a>
 
             </div>
         }
     </div>
 </section>
+
+<style>
+    .categories-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .category {
+        display: inline-block;
+        width: 23%;
+        margin: 1%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        text-align: center;
+        transition: background-color 0.3s, border-color 0.3s;
+    }
+
+    .category a {
+        text-decoration: none;
+        color: #333;
+    }
+
+    .category:hover {
+        background-color: #f4f4f4;
+        border-color: #333;
+    }
+
+    .category p {
+        margin: 0;
+    }
+</style>

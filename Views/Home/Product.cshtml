@@ -1,0 +1,17 @@
+@using System.Globalization
+@model List<Ilan>
+
+<section class="latest-ads">
+    <h2>@ViewBag.CategoryName</h2>
+    <div class="ads-container">
+        @foreach (var item in Model)
+        {
+            <div class="ad">
+                <img src="@item.ImgUrl" alt="@item.Name">
+                <h3>@item.Name</h3>
+                <p>@item.Price.ToString("c", CultureInfo.CreateSpecificCulture("tr-TR"))</p>
+                <a href="#">@item.CategoryName</a>
+            </div>
+        }
+    </div>
+</section>

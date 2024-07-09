@@ -149,10 +149,6 @@ public class EditorController : Controller
 
         var rowAffected = connection.Execute(sql, data);
 
-        // var mailsql =
-        //     "SELECT categories.Name as CategoryName FROM ads LEFT JOIN categories ON ads.CategoryId = categories.Id  ";
-        // var x = connection.QueryFirstOrDefault<Ilan>(mailsql);
-
 
         using var reader = new StreamReader("wwwroot/mailTemp/index.html");
         var template = reader.ReadToEnd();
@@ -338,5 +334,10 @@ public class EditorController : Controller
         ViewBag.Message = "İlan başarılı bir şekilde silindi.";
 
         return View("Message");
+    }
+
+    public IActionResult Message()
+    {
+        return View();
     }
 }

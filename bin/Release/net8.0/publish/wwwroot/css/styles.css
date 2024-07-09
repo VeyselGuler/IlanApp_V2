@@ -1,0 +1,111 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+.latest-ads, .categories {
+    margin-bottom: 20px;
+}
+
+.latest-ads h2, .categories h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.ads-container, .categories-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.ad, .category {
+    width: 23%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.ad img {
+    width: 100%;
+    height: auto;
+    max-height: 150px;
+    object-fit: cover;
+}
+
+.ad h3 {
+    margin: 10px 0;
+    font-size: 1em;
+}
+
+.ad p {
+    margin: 5px 0;
+    font-size: 0.9em;
+}
+
+.ad a {
+    text-decoration: none;
+    color: #007BFF;
+    font-size: 0.8em;
+}
+
+.category i {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.category p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+.button-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.pending-ads-button {
+    display: inline-block;
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.pending-ads-button:hover {
+    background-color: #0056b3;
+}
+
+.pending-ads-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.5);
+}

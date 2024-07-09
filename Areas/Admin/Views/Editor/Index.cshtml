@@ -8,7 +8,7 @@
 
 
 <section class="editor">
-    <div class="categories-section">
+    <div class="categories-section" >
         <h2>Kategoriler</h2>
         <table>
             <tr>
@@ -20,7 +20,7 @@
             {
                 <tr>
                     <td>@item.Name</td>
-                    <td><a href="/admin/editor/updatecategory/@item.Id">güncelle</a> / @Html.ActionLink("Sil", "DeleteCategory", "Editor", new { Area = "Admin", id = item.Id })</td>
+                    <td><a href="/admin/editor/updatecategory/@item.Id">güncelle</a> / <a href="/admin/editor/deletecategory/@item.Id">Sil</a></td>
                 </tr>
             }
 
@@ -34,7 +34,7 @@
             </form>
         </div>
     </div>
-    <div class="ads-section">
+    <div class="ads-section" style="display:block !important"> 
         <h2>İlanlar</h2>
         <table>
             <tr>
